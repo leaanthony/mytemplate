@@ -1,9 +1,9 @@
 {
   "name": "mytemplate",
   "shortname": "",
-  "author": "",
-  "description": "",
-  "helpurl": "",
+  "author": "Lea Anthony",
+  "description": "Test template",
+  "helpurl": "https://github.com/wailsapp/wails",
   "version": "v0.0.1",
   "schema": 3
 }
